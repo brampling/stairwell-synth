@@ -1,0 +1,9 @@
+# PlatformIO build output and metadata
+firmware/.pio/
+.pio/
+
+# Local editor and tooling config
+.claude/
+
+# macOS
+.DS_Store
