@@ -14,7 +14,7 @@
 #include "protocol.h"
 
 // Set to 1 when a potentiometer wiper is connected to GPIO4.
-#define HAS_POT 0
+#define HAS_POT 1
 
 // Temporary bring-up aid: print the raw switch pin level a few times a second
 // so wiring can be checked. Set back to 0 once the switch is proven.
