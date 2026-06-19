@@ -5,8 +5,9 @@ firmware/.pio/
 # Local editor and tooling config
 .claude/
 
-# Personal working backlog, kept out of the public repo
+# Personal working notes, kept out of the public repo
 TODO.md
+PARTS.md
 
 # macOS
 .DS_Store
